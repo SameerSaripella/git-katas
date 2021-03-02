@@ -1,11 +1,4 @@
----
-maintainer: randomsort
----
-# Git Katas
-
-## Quick Start
-
-### In the Cloud
+deleted the first 8 lines in the code >>>>
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/praqma-training/git-katas.git)
 
